@@ -1,0 +1,10 @@
+body{
+    background-color: darkred;
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color:black ;
+    margin: 20px 40 px;
+}
